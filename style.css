@@ -1,0 +1,142 @@
+body{
+    background-color: white;
+}
+
+h1{
+position: absolute;
+left: 77px;
+top: 20px;
+font-family: 'Courier New', Courier, monospace;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 25px;
+letter-spacing: -0.08em;
+text-transform: uppercase;
+color: #333333;
+}
+
+img{
+    height: 450px;
+    width:550px;
+position: absolute;
+left: 7.35%;
+top: 24.54%;
+bottom: 4.03%;
+}
+
+h2{
+position: absolute;
+
+left: 735px;
+top: 165px;
+
+font-family: 'Courier New', Courier, monospace;
+font-style: normal;
+font-weight: bold;
+font-size: 54px;
+line-height: 65px;
+letter-spacing: -0.035em;
+color: #333333;
+}
+
+p{
+position: absolute;
+width: 381px;
+height: 108px;
+left: 736px;
+top: 321px;
+font-family: 'Courier New', Courier, monospace;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 26px;
+letter-spacing: -0.035em;
+color: #4F4F4F;
+}
+
+button{
+position: absolute;
+width: 216px;
+height: 58px;
+left: 740px;
+top: 443px;
+background: #0e0e0e;
+border: none;
+}
+button:hover{
+    background-color: grey;
+}
+@media screen and (max-width: 500px){
+    body{
+        background-color: white;
+    }
+    
+    h1{
+    position: absolute;
+    left: 77px;
+    top: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 25px;
+    letter-spacing: -0.08em;
+    text-transform: uppercase;
+    color: #333333;
+    }
+    
+    img{
+        height: 550px;
+        width:450px;
+        position: absolute;
+        left: 30.73%;
+        right: 36.78%;
+        top: 28.49%;
+        bottom: 63.44%;
+        
+    }
+    
+    h2{
+    position: absolute;
+    width: 700px;
+    top: 700px;
+    left: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 74px;
+    line-height: 65px;
+    letter-spacing: -0.035em;
+    color: #333333;
+    }
+    
+    p{
+    position: absolute;
+    width: 481px;
+    height: 108px;
+    top: 921px;
+    left:60px;
+
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 34px;
+    line-height: 26px;
+    letter-spacing: -0.035em;
+    color: #4F4F4F;
+    }
+    
+    button{
+    position: absolute;
+    width: 216px;
+    height: 58px;
+    top: 1163px;
+    left:70px;
+    background: #0e0e0e;
+    border: none;
+    }
+    button:hover{
+        background-color: grey;
+    }
+}
