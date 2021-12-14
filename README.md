@@ -62,5 +62,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [portfoliodsr4](https://{bit.ly/portfoliodsr4})
+- Website [portfoliodsr4](https://deepikasr4.github.io/Portfolio/)
 - GitHub [@DeepikaSR4](https://{github.com/DeepikaSR4})
